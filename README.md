@@ -1,0 +1,2 @@
+# ManavKasaProgrami
+ Manav hesapları yapar
